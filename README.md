@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola! 👋
+
+I'm a freelance user experience designer with 10+ years of experience based in Stockholm Los Angeles Barcelona☼
 
 <!--
 **adddriaaa/adddriaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
